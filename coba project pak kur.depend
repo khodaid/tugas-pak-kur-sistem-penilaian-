@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560221627 source:e:\coba project pak kur\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+
